@@ -1,4 +1,4 @@
-Compile and test job checking
+build pipeline checking
 Addressbook Tutorial
 ====================
 
